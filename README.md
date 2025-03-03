@@ -33,4 +33,7 @@ This is a client-server application that processes employee records from a CSV f
 Run `pylint <file>` 
 
 ### Configuration
-CSV Employee Data: Place the file in data/employee_data.csv
+CSV Employee Data: Place the file in data\employee_data.csv
+
+### Demo
+Refer the demo vide to know how the application works gorilla-python-assessment\Demo\
