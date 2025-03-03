@@ -1,0 +1,6 @@
+aiohttp
+aiomysql
+asyncio
+pandas
+pydantic
+pylint
